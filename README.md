@@ -8,4 +8,4 @@ A group effort by:
 - [Andrej Bolevslasky](http://id144.org)
 - [Michele Ferretti](http://twitter.com/miccferr)
 
-The presentation is live [here](#)
+The presentation is live [here](http://miccferr.github.io/interactive-table-opendot/#/)
